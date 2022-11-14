@@ -1,3 +1,3 @@
-# sematic_seg
+# semantic_seg_hippo
 
 The code is coming soon.
